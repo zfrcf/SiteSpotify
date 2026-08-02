@@ -1,0 +1,1 @@
+$("me-contacter").onclick = doSend;
